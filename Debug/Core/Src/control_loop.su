@@ -1,0 +1,2 @@
+../Core/Src/control_loop.c:10:6:speedControlLoop_init	24	static
+../Core/Src/control_loop.c:27:6:speedControlLoop_updateSpeed	24	static

@@ -1,0 +1,12 @@
+../Core/Src/shell.c:14:12:sh_uartWrite	24	static
+../Core/Src/shell.c:19:5:sh_stats	24	static
+../Core/Src/shell.c:25:12:sh_help	48	static
+../Core/Src/shell.c:35:13:shellTask	24	static
+../Core/Src/shell.c:41:12:sh_exec	72	static
+../Core/Src/shell.c:69:6:sh_uartRead	32	static
+../Core/Src/shell.c:77:6:sh_init	24	static
+../Core/Src/shell.c:91:6:sh_start	32	static
+../Core/Src/shell.c:98:5:sh_add	24	static
+../Core/Src/shell.c:109:5:sh_run	40	static
+../Core/Src/shell.c:159:6:configureTimerForRunTimeStats	8	static
+../Core/Src/shell.c:162:15:getRunTimeCounterValue	8	static

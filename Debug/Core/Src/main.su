@@ -1,0 +1,10 @@
+../Core/Src/main.c:112:5:__io_putchar	16	static
+../Core/Src/main.c:118:5:__io_getchar	16	static
+../Core/Src/main.c:131:13:tofTask	16	static
+../Core/Src/main.c:141:13:syncTask	16	static
+../Core/Src/main.c:271:6:HAL_GPIO_EXTI_Rising_Callback	16	static
+../Core/Src/main.c:285:6:HAL_GPIO_EXTI_Falling_Callback	16	static
+../Core/Src/main.c:302:5:main	24	static
+../Core/Src/main.c:444:6:SystemClock_Config	88	static
+../Core/Src/main.c:495:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:512:6:Error_Handler	8	static,ignoring_inline_asm

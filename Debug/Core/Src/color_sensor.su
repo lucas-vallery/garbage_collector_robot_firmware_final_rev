@@ -1,0 +1,17 @@
+../Core/Src/color_sensor.c:128:13:colorSetOutputFreqScaling	16	static
+../Core/Src/color_sensor.c:153:6:colorSetPhotodiodeType	16	static
+../Core/Src/color_sensor.c:183:6:colorSensorInit	24	static
+../Core/Src/color_sensor.c:213:10:colorGetRedValue	16	static
+../Core/Src/color_sensor.c:218:10:colorGetGreenValue	16	static
+../Core/Src/color_sensor.c:223:6:colorDisable	96	static
+../Core/Src/color_sensor.c:229:6:colorEnable	96	static
+../Core/Src/color_sensor.c:238:10:colorHandleCalibrationSensor	32	static
+../Core/Src/color_sensor.c:332:6:colorSensorHandleInputCapture_IT	16	static
+../Core/Src/color_sensor.c:367:12:colorHandleCalibrationValues	24	static
+../Core/Src/color_sensor.c:410:12:colorHandleRawValues	56	static
+../Core/Src/color_sensor.c:488:13:colorAnalyse	24	static
+../Core/Src/color_sensor.c:511:13:colorDoMeasureAgain	16	static
+../Core/Src/color_sensor.c:521:13:colorMeasureTask	24	static
+../Core/Src/color_sensor.c:534:5:colorTaskCreation	32	static
+../Core/Src/color_sensor.c:571:6:timer_handle	16	static
+../Core/Src/color_sensor.c:630:6:GPIO_write	16	static

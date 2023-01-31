@@ -1,0 +1,14 @@
+../Core/Src/drv_timer.c:9:6:startRightPWM	8	static
+../Core/Src/drv_timer.c:12:6:startRightPWMN	8	static
+../Core/Src/drv_timer.c:15:6:stopRightPWM	8	static
+../Core/Src/drv_timer.c:18:6:stopRightPWMN	8	static
+../Core/Src/drv_timer.c:21:6:setRightDutyCycle	32	static
+../Core/Src/drv_timer.c:27:10:getRightEncoderCounter	8	static
+../Core/Src/drv_timer.c:30:5:isRightEncoderCountingDown	8	static
+../Core/Src/drv_timer.c:35:6:startLeftPWM	8	static
+../Core/Src/drv_timer.c:38:6:startLeftPWMN	8	static
+../Core/Src/drv_timer.c:41:6:stopLeftPWM	8	static
+../Core/Src/drv_timer.c:44:6:stopLeftPWMN	8	static
+../Core/Src/drv_timer.c:47:6:setLeftDutyCycle	32	static
+../Core/Src/drv_timer.c:53:10:getLeftEncoderCounter	8	static
+../Core/Src/drv_timer.c:56:5:isLeftEncoderCountingDown	8	static

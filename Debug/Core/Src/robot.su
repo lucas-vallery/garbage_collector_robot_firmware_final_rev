@@ -1,0 +1,11 @@
+../Core/Src/robot.c:12:13:robot_computePolarFromCartesianCoordinates	40	static
+../Core/Src/robot.c:28:6:robot_initStruct	24	static
+../Core/Src/robot.c:59:6:robot_goToPosition	40	static
+../Core/Src/robot.c:134:6:robot_goToCoordinates	32	static
+../Core/Src/robot.c:152:6:robot_updateOdometry	40	static
+../Core/Src/robot.c:171:6:robot_goToAngle	24	static
+../Core/Src/robot.c:198:6:robot_stop	16	static
+../Core/Src/robot.c:205:6:robot_borderAvoidance	16	static
+../Core/Src/robot.c:221:6:robot_addVirtualBorder	32	static
+../Core/Src/robot.c:230:12:robot_virtualBorderSensor	24	static
+../Core/Src/robot.c:247:6:robot_virtualBorderAvoidance	40	static

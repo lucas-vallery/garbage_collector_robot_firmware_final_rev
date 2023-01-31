@@ -1,0 +1,2 @@
+../Core/Src/uart_half_duplex_driver.c:9:5:uart_half_duplex_transmit	32	static
+../Core/Src/uart_half_duplex_driver.c:16:5:uart_half_duplex_receive	32	static

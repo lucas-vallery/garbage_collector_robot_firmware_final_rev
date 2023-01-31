@@ -1,0 +1,2 @@
+../Core/Src/zxbm_driver.c:9:6:zxbm_setDutyCycle	16	static
+../Core/Src/zxbm_driver.c:16:6:zxbm_run	24	static
